@@ -1,0 +1,3 @@
+标准输入输出头文件demo1
+ 追加一段用于demo2-fopen_function
+We  are in 2022 
